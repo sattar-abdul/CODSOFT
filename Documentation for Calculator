@@ -1,0 +1,11 @@
+Creating a simple calculator in Python using functions to perform arithmetic operations and then implementing a basic user interface to interact with these functions. 
+This create a command-line calculator that can perform addition, subtraction, multiplication, and division operations.
+We define four functions add, subtract, multiply, and divide to perform basic arithmetic operations.
+The calculator function acts as the main driver for the program. It displays a menu of operations and takes user input to perform the desired operation.
+The program continuously runs inside a while True loop until the user chooses to exit (by entering '5').
+The input function is used to get user input for operation choice and the numbers to perform the operation on.
+We handle basic input validation to ensure that the user enters a valid choice (1, 2, 3, 4, or 5) and valid numbers for arithmetic operations.
+
+To run this calculator:
+Run the file using Python (python calculator.py).
+Follow the on-screen instructions to perform calculations.
